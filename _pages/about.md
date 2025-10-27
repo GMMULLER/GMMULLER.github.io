@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student at the Computer Science Department at the University of Illinois Chicago (UIC). I am interested in developing techniques for interactive visual analysis of large‑scale data, integrating methods from visualization, data management, and machine learning. My work and collaborations with domain experts resulted in research published in leading venues and the development of different open‑source systems.
+As a PhD candidate in Computer Science at the University of Illinois Chicago, I specialize in designing interactive visual analytics systems. My academic journey has been enriched by my role as a Research Assistant at UIC, where I lead the development of open-source projects like UrbanTK, Curio, and Urbanite. These tools are complemented by my contributions as the first author of three IEEE VIS papers. 
+
+My professional experience includes a research internship at Salesforce, where I conducted user studies and built a prototype for Tableau, a data science research internship at Nokia Bell Labs, where I developed an interactive platform for analyzing public and influencer opinions on AI, and a data science internship at the Lawrence Berkeley lab, where I developed a tool to analyze years of supercomputers data logs. I am proficient in tool building, data analytics, and data visualization.
 
 <!-- A data-driven personal website
 ======
